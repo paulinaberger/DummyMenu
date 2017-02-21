@@ -9,8 +9,11 @@
     <item android:title="@string/Like"
         android:id="@+id/item2"
         android:checkable="false"
-        android:icon="@mipmap/ic_launcher" />
+        android:icon="@drawable/ic_mood_black_24dp"
+        app:showAsAction="always" />
+
     <item android:title="@string/Dislike"
         android:id="@+id/item3"
-        android:icon="@mipmap/ic_launcher" />
+        android:icon="@drawable/ic_album_black_24dp"
+        app:showAsAction="ifRoom"/>
 </menu>

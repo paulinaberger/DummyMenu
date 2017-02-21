@@ -6,11 +6,11 @@
         android:id="@+id/item1"
         android:icon="@mipmap/ic_launcher"
         app:showAsAction="always" />
-    <item android:title="@string/item2"
+    <item android:title="@string/Like"
         android:id="@+id/item2"
         android:checkable="false"
         android:icon="@mipmap/ic_launcher" />
-    <item android:title="@string/item3"
+    <item android:title="@string/Dislike"
         android:id="@+id/item3"
         android:icon="@mipmap/ic_launcher" />
 </menu>

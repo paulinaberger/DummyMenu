@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">DummyMenu</string>
     <string name="item">Item</string>
-    <string name="item2">Item</string>
-    <string name="item3">Item</string>
+    <string name="Like">Like</string>
+    <string name="Dislike">Dislike</string>
 
 </resources>
